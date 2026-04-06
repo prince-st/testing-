@@ -1,0 +1,51 @@
+FN_Press_wire
+
+
+What We Offer
+
+#0030F0 
+
+#F6F6F9
+#F6F6F9
+
+
+-------------------------------------------------
+
+#00084F
+
+#050752
+
+
+    <section className="relative overflow-hidden" style={{ background: "#0d1a5e" }}>
+
+-------------------------------------------------
+
+#0030F0
+
+
+
+relative py-20 overflow-hidden bg-white
+
+
+https://dev-reactwebsite.pantheonsite.io/wp-json/wp/v2/pages/170
+
+mt-8 rounded-xl p-6 sm:p-8 text-center text-white
+
+mt-14 rounded-2xl p-8 sm:p-12 text-center text-white
+
+
+
+https://www.figma.com/design/y5ouLMceccjxk5YyRjA2Jm/FN-Press-Wire?node-id=7-760&t=JuC5MxK70sXOZ2aO-0
+
+
+BAP & Associates
+
+FN Press Wire
+
+
+mt-14 rounded-2xl p-8 sm:p-12 text-center text-white
+
+
+
+
+
